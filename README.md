@@ -1,1 +1,1 @@
-# go-rest-api
+# Books rest-api with go
